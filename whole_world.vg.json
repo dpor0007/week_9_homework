@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Energy in the Wolrd",
+    "title": "Energy in the Wolrd in 2019",
     "width": 1000,
     "height": 1000,
     "projection": {"type": "equirectangular"},
